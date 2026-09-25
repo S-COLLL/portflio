@@ -1,0 +1,6 @@
+# Unused originals (the site uses images/)
+Screenshot *.png
+milo-pitch.jpg
+
+# Editor settings
+.vscode/
