@@ -1,4 +1,8 @@
-# Unused originals (the site uses images/)
+# Dependencies and build output
+node_modules/
+dist/
+
+# Unused originals (the site uses src/assets/images/)
 Screenshot *.png
 milo-pitch.jpg
 
